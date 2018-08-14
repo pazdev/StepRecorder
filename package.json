@@ -1,0 +1,19 @@
+{
+  "name": "StepRecorder",
+  "version": "1.0.0",
+  "description": "Cross platform electron based Step Recorder for tutorials and documentation.",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "repository": "https://github.com/pazdev/StepRecorder",
+  "keywords": [
+    "Electron",
+    "steprecorder"
+  ],
+  "author": "PazDev",
+  "license": "GNU General Public License v3.0",
+  "devDependencies": {
+    "electron": "^2.0.7"
+  }
+}
