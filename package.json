@@ -14,6 +14,7 @@
   "author": "PazDev",
   "license": "GNU General Public License v3.0",
   "devDependencies": {
-    "electron": "^2.0.7"
+    "axios": "^0.18.0",
+    "electron": "^3.0.0"
   }
 }
